@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> حبيبي حبك غير كل حياتي
+> نور طريقي وداوى كل آهاتي
+> في عيونك شفت أحلامي ودنياتي
+> يا روحي معاك كملت حكاياتي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
