@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/hobak-ghayyar-kol-hayati-your-love-changed-all-my-life/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for Hobak Ghayyar Kol Hayati – Your Love Changed All My Life](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
